@@ -4,7 +4,7 @@ I graduated from the University of Southern California with a degree in Computer
 
 I am interested in finance (stock) projects or sports projects.
 
-Check out my website: <a href="trex1098.github.io">Click Here</a>
+Check out my website: <a href="https://trex1098.github.io/">Click Here</a>
 <br>
 <br>
 <strong>Programming Language Proficiency Level:</strong>
