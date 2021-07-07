@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Actively Looking for a Full Time Software Engineer Position.
 I graduated from the University of Southern California with a degree in Computer Science and Business Administration.
 
 I am interested in finance (stock) projects or sports projects.
